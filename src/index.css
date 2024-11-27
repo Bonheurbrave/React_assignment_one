@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bb{
+  writing-mode:vertical rl;
+  orientation:vertical;
+}
+
